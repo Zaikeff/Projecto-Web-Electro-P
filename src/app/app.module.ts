@@ -10,6 +10,7 @@ import { EventsComponent } from './events/events.component';
 import { ContactComponent } from './contact/contact.component';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
+import { TycComponent } from './tyc/tyc.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { MatButtonModule } from '@angular/material/button';
     NavigationComponent,
     HomeComponent,
     EventsComponent,
-    ContactComponent
+    ContactComponent,
+    TycComponent
   ],
   imports: [
     BrowserModule,
