@@ -1,0 +1,9 @@
+.black-toolbar {
+  background-color: black; /* Cambia el color del fondo a negro */
+  color: white; /* Cambia el color del texto a blanco */
+  position: sticky; /* Prueba con position: sticky */
+  z-index: 1;
+}
+.iconBresh{
+width: 100px;
+}

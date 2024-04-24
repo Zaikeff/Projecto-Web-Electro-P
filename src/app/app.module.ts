@@ -5,7 +5,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavigationComponent } from './navigation/navigation.component';
-import { HeroComponent } from './hero/hero.component';
 import { HomeComponent } from './home/home.component';
 import { EventsComponent } from './events/events.component';
 import { ContactComponent } from './contact/contact.component';
@@ -16,7 +15,6 @@ import { MatButtonModule } from '@angular/material/button';
   declarations: [
     AppComponent,
     NavigationComponent,
-    HeroComponent,
     HomeComponent,
     EventsComponent,
     ContactComponent
